@@ -1,0 +1,21 @@
+# Vivado project output (commit sources, not the project folder)
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+.Xil/
+xsim.dir/
+webtalk*
+*.xpr
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
