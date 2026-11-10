@@ -54,6 +54,3 @@ Covered: normal routing, payload ordering, ACL blocking (both rules plus an exha
 
 `phase1/fpga/` holds a ZedBoard (XC7Z020-CLG484-1) wrapper that drives the router from Vivado VIO probes and reports status on LD0–LD7, plus the matching constraints. It expects `vio_0` and `ila_0` IP cores to be generated in the Vivado project.
 
-## Authors
-
-<your name> (add co-authors or advisor here if you like)
